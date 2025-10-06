@@ -17,7 +17,7 @@ Works only in the **job detail (right panel)** on LinkedIn, Indeed, and Glassdoo
 1. Install [Tampermonkey](https://www.tampermonkey.net/).  
 2. Click the link below to install this script:
 
-==> **[Install Script](https://raw.githubusercontent.com/Thomastakovich/US_Job_Sponsorship_Alarm/main/US_Job_Sponsorship_Alarm.js)**
+==> **[Install Script](https://raw.githubusercontent.com/Thomastakovich/US_Job_Sponsorship_Alarm/main/US_Job_Sponsorship_Alarm.user.js)**
 
 ---
 
